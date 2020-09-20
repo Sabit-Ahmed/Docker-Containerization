@@ -39,7 +39,15 @@ https://stackoverflow.com/questions/18588974/git-prevents-pushing-after-amending
 https://docs.github.com/en/github/using-git/dealing-with-non-fast-forward-errors  
 https://stackoverflow.com/questions/24357108/git-updates-were-rejected-because-the-remote-contains-work-that-you-do-not-have  
   
+*Problem: Adding Linebreaks in README.md  
+Solution links: https://stackoverflow.com/questions/24575680/new-lines-inside-paragraph-in-readme-md  
+
+  
 *Problem: OCI runtime exec failed: exec failed: container_linux.go:344: starting container process  
 Solution: install ping package to a certain directory with bash command-line#34386471  
 Solution links:  
 https://stackoverflow.com/questions/55378420/oci-runtime-exec-failed-exec-failed-container-linux-go344-starting-container
+
+    
+*Problem: denied: requested access to the resource is denied : docker  
+Sloution links: https://stackoverflow.com/questions/41984399/denied-requested-access-to-the-resource-is-denied-docker
