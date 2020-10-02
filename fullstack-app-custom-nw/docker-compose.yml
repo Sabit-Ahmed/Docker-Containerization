@@ -1,0 +1,77 @@
+version: "3.8"
+
+services: 
+    db:
+        image: postgres:12
+        container_name: db_con
+        volumes: 
+            - ./docker-entrypoint-initdb.d:/docker-entrypoint-initdb.d
+        environment: 
+            POSTGRES_PASSWORD: 63eaQB9wtLqmNBpg
+            POSTGRES_DB: notesdb
+        networks: 
+            - backend
+
+    api:
+        image: api_im
+        build:
+            context: ./api
+            dockerfile: Dockerfile.dev
+        container_name: api_con
+        volumes: 
+            - /usr/app/node_modules
+            - ./api:/usr/app
+        environment: 
+            DB_CONNECTION: pg
+            DB_HOST: db
+            DB_PORT: 5432
+            DB_USER: postgres
+            DB_DATABASE: notesdb
+            DB_PASSWORD: 63eaQB9wtLqmNBpg
+        restart: 
+            always
+        networks: 
+            - backend
+    
+
+    client:
+        image: client_im
+        build:
+            context: ./client
+            dockerfile: Dockerfile.dev
+        container_name: client_con
+        volumes: 
+            - /usr/app/node_modules
+            - ./client:/usr/app
+        environment: 
+            VUE_APP_API_URL: /api
+        restart: 
+            on-failure
+        networks: 
+            - frontend
+    
+
+    nginx:
+        image: nginx_im
+        build:
+            context: ./nginx
+            dockerfile: Dockerfile.dev
+        container_name: nginx_con
+        restart: 
+            unless-stopped
+        ports: 
+            - 4000:80
+        networks: 
+            - frontend
+            - backend
+
+networks: 
+    frontend:
+        name: frontend_nw
+        driver: bridge
+    backend:
+        name: backend_nw
+        driver: bridge
+    
+
+    
