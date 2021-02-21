@@ -40,6 +40,8 @@ Solution links:
 https://stackoverflow.com/questions/18588974/git-prevents-pushing-after-amending-a-commit  
 https://docs.github.com/en/github/using-git/dealing-with-non-fast-forward-errors  
 https://stackoverflow.com/questions/24357108/git-updates-were-rejected-because-the-remote-contains-work-that-you-do-not-have  
+https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository
+
   
 *Problem: Adding Linebreaks in README.md  
 Solution links: https://stackoverflow.com/questions/24575680/new-lines-inside-paragraph-in-readme-md  
@@ -55,15 +57,15 @@ https://stackoverflow.com/questions/55378420/oci-runtime-exec-failed-exec-failed
 Sloution links: https://stackoverflow.com/questions/41984399/denied-requested-access-to-the-resource-is-denied-docker
 
 
-Kubernetes Handbook: https://www.freecodecamp.org/news/the-kubernetes-handbook/#installing-kubernetes
-Managing MongoDB on docker with docker-compose: https://medium.com/faun/managing-mongodb-on-docker-with-docker-compose-26bf8a0bbae3
-Run Docker containers with Azure Container Instances (Microsoft Course): Run Docker containers with Azure Container Instances
-Deploying Docker containers on Azure: Deploying Docker containers on Azure: https://docs.docker.com/cloud/aci-integration/
-Simple App with Flask, SQLAlchemy and Docker: https://hmajid2301.medium.com/implementing-sqlalchemy-with-docker-cb223a8296de
-Dockerizing a Flask-MySQL app with docker-compose: https://medium.com/@shamir.stav_83310/dockerizing-a-flask-mysql-app-with-docker-compose-c4f51d20b40d
-Deploy and Secure a React — Flask App With Docker and Nginx: https://medium.com/swlh/deploy-and-secure-a-react-flask-app-with-docker-and-nginx-768ca582863b
-Microsoft Courses for Data Science: https://docs.microsoft.com/en-us/learn/browse/?products=azure%2Cdynamics-365%2Cm365%2Cpower-platform&roles=business-owner
+Kubernetes Handbook: https://www.freecodecamp.org/news/the-kubernetes-handbook/#installing-kubernetes 
+Managing MongoDB on docker with docker-compose: https://medium.com/faun/managing-mongodb-on-docker-with-docker-compose-26bf8a0bbae3 
+Run Docker containers with Azure Container Instances (Microsoft Course): Run Docker containers with Azure Container Instances 
+Deploying Docker containers on Azure: Deploying Docker containers on Azure: https://docs.docker.com/cloud/aci-integration/ 
+Simple App with Flask, SQLAlchemy and Docker: https://hmajid2301.medium.com/implementing-sqlalchemy-with-docker-cb223a8296de 
+Dockerizing a Flask-MySQL app with docker-compose: https://medium.com/@shamir.stav_83310/dockerizing-a-flask-mysql-app-with-docker-compose-c4f51d20b40d 
+Deploy and Secure a React — Flask App With Docker and Nginx: https://medium.com/swlh/deploy-and-secure-a-react-flask-app-with-docker-and-nginx-768ca582863b 
+Microsoft Courses for Data Science: https://docs.microsoft.com/en-us/learn/browse/?products=azure%2Cdynamics-365%2Cm365%2Cpower-platform&roles=business-owner 
 
 
-Farhan Hasin Chowdhury (GitLab): https://gitlab.com/fhsinchy
+Farhan Hasin Chowdhury (GitLab): https://gitlab.com/fhsinchy 
 Data Science: https://datasinsightsbd.gitbook.io/dsbook/domain-knowledge
