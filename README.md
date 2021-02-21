@@ -1,9 +1,9 @@
 This repository contains the practice codes and files based on the Docker Handbook by Farhan Hasin Chowdhury. The Handbook link: https://www.freecodecamp.org/news/the-docker-handbook/
   
 Resource links:
-Docker Doc: https://docs.docker.com/
-Docker Handbook: https://www.freecodecamp.org/news/the-docker-handbook/ 
-Updated Handbook: https://docker.farhan.info/
+Docker Doc: https://docs.docker.com/<br />
+Docker Handbook: https://www.freecodecamp.org/news/the-docker-handbook/ <br />
+Updated Handbook: https://docker.farhan.info/ <br />
 Docker and Container basics: https://code.visualstudio.com/docs/remote/containers  
 Containerization basics: https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/  
 Network between containers: https://www.digitalocean.com/community/questions/how-to-ping-docker-container-from-another-container-by-name?fbclid=IwAR3QlTN9ih4UQITQ-aK_DNcK6mP5SPkx_kVkJGQh5UrcxNyRzhsVNGgGxO4  
@@ -58,12 +58,20 @@ Sloution links: https://stackoverflow.com/questions/41984399/denied-requested-ac
 
 
 Kubernetes Handbook: https://www.freecodecamp.org/news/the-kubernetes-handbook/#installing-kubernetes <br />
+
+
 Managing MongoDB on docker with docker-compose: https://medium.com/faun/managing-mongodb-on-docker-with-docker-compose-26bf8a0bbae3 <br />
+
 Run Docker containers with Azure Container Instances (Microsoft Course): Run Docker containers with Azure Container Instances <br />
+
 Deploying Docker containers on Azure: Deploying Docker containers on Azure: https://docs.docker.com/cloud/aci-integration/ <br />
-Simple App with Flask, SQLAlchemy and Docker: https://hmajid2301.medium.com/implementing-sqlalchemy-with-docker-cb223a8296de 
+
+Simple App with Flask, SQLAlchemy and Docker: https://hmajid2301.medium.com/implementing-sqlalchemy-with-docker-cb223a8296de <br />
+
 Dockerizing a Flask-MySQL app with docker-compose: https://medium.com/@shamir.stav_83310/dockerizing-a-flask-mysql-app-with-docker-compose-c4f51d20b40d <br />
+
 Deploy and Secure a React — Flask App With Docker and Nginx: https://medium.com/swlh/deploy-and-secure-a-react-flask-app-with-docker-and-nginx-768ca582863b <br />
+
 Microsoft Courses for Data Science: https://docs.microsoft.com/en-us/learn/browse/?products=azure%2Cdynamics-365%2Cm365%2Cpower-platform&roles=business-owner <br />
 
 
