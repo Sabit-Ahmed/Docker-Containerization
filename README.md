@@ -1,7 +1,9 @@
 This repository contains the practice codes and files based on the Docker Handbook by Farhan Hasin Chowdhury. The Handbook link: https://www.freecodecamp.org/news/the-docker-handbook/
   
 Resource links:
-Docker Handbook: https://www.freecodecamp.org/news/the-docker-handbook/  
+Docker Doc: https://docs.docker.com/
+Docker Handbook: https://www.freecodecamp.org/news/the-docker-handbook/ 
+Updated Handbook: https://docker.farhan.info/
 Docker and Container basics: https://code.visualstudio.com/docs/remote/containers  
 Containerization basics: https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/  
 Network between containers: https://www.digitalocean.com/community/questions/how-to-ping-docker-container-from-another-container-by-name?fbclid=IwAR3QlTN9ih4UQITQ-aK_DNcK6mP5SPkx_kVkJGQh5UrcxNyRzhsVNGgGxO4  
@@ -51,3 +53,17 @@ https://stackoverflow.com/questions/55378420/oci-runtime-exec-failed-exec-failed
     
 *Problem: denied: requested access to the resource is denied : docker  
 Sloution links: https://stackoverflow.com/questions/41984399/denied-requested-access-to-the-resource-is-denied-docker
+
+
+Kubernetes Handbook: https://www.freecodecamp.org/news/the-kubernetes-handbook/#installing-kubernetes
+Managing MongoDB on docker with docker-compose: https://medium.com/faun/managing-mongodb-on-docker-with-docker-compose-26bf8a0bbae3
+Run Docker containers with Azure Container Instances (Microsoft Course): Run Docker containers with Azure Container Instances
+Deploying Docker containers on Azure: Deploying Docker containers on Azure: https://docs.docker.com/cloud/aci-integration/
+Simple App with Flask, SQLAlchemy and Docker: https://hmajid2301.medium.com/implementing-sqlalchemy-with-docker-cb223a8296de
+Dockerizing a Flask-MySQL app with docker-compose: https://medium.com/@shamir.stav_83310/dockerizing-a-flask-mysql-app-with-docker-compose-c4f51d20b40d
+Deploy and Secure a React — Flask App With Docker and Nginx: https://medium.com/swlh/deploy-and-secure-a-react-flask-app-with-docker-and-nginx-768ca582863b
+Microsoft Courses for Data Science: https://docs.microsoft.com/en-us/learn/browse/?products=azure%2Cdynamics-365%2Cm365%2Cpower-platform&roles=business-owner
+
+
+Farhan Hasin Chowdhury (GitLab): https://gitlab.com/fhsinchy
+Data Science: https://datasinsightsbd.gitbook.io/dsbook/domain-knowledge
